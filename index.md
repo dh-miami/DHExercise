@@ -1,7 +1,5 @@
-# In Class Exercise
+# In Class Exercise: Thursday March 2nd, 2023 
 ## Student's name: XXX 
-
-Thursday March 2nd, 2023 
 
 At the end of the class your write a final thought on the exercise and on the work that we have been doing so far. 
 
